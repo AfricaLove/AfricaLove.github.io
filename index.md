@@ -27,4 +27,4 @@ Helping to maintain the Cardano ecosystem with a proudly African staking pool
 ```
 
 ### Support or Contact
-Feel to contact us at Africalove1992@gmail.com
+Feel free to contact us at Africalove1992@gmail.com
