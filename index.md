@@ -4,8 +4,8 @@ Helping to maintain the Cardano ecosystem with a proudly African staking pool
 
 
 ### Staking Pool Rate
-No Fixed rate
-2% tax ratio
+-No Fixed rate
+-2% tax ratio
 
 ```markdown
 Syntax highlighted code block
