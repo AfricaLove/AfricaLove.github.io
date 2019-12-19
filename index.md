@@ -1,5 +1,5 @@
-## Africa Love Staking Pool
-## A Cardano 
+## Africa Love Staking Pool (AFL)
+## A Cardano Staking Pool
 Helping to maintain the Cardano ecosystem with a proudly African staking pool
 
  
