@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Africa Love 
+## A Cardano Staking Pool
+Helping to maintain the Cardano ecosystem with a proudly African staking pool
 
-You can use the [editor on GitHub](https://github.com/AfricaLove/AfricaLove.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Staking Pool Rate
+No Fixed rate
+2% tax ratio
 
 ```markdown
 Syntax highlighted code block
