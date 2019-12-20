@@ -1,4 +1,4 @@
-## Africa Love Staking Pool (AFL)
+## Africa Love Staking Pool (AFLO)
 ## A Cardano Staking Pool
 Helping to maintain the Cardano ecosystem with a proudly African staking pool
 
