@@ -3,9 +3,9 @@
 Helping to maintain the Cardano ecosystem with a proudly African staking pool
 
  
-### Staking Pool Rate
+### Staking Pool Rates
 - No Fixed Fee
-- 2% Tax Ratio
+- 2% Tax 
 
 ### Support or Contact
 Feel free to contact us at Africalove1992@gmail.com
